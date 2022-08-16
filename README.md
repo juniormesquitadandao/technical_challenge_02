@@ -5,7 +5,7 @@
 - Configure host: https://github.com/juniormesquitadandao/gerlessver
 
 ```sh
-cd github
+cd technical_challenge_02
   docker compose config
   docker compose build
   docker compose up -d
